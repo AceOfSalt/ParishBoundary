@@ -1058,7 +1058,7 @@
       "type": "Feature",
       "properties": {
         "name": "St. Clare of Assisi Parish",
-        "color": "Yellow orange",
+        "color": "yellow",
         "deanery": "Rock-Green"
       },
       "geometry": {
@@ -1125,7 +1125,7 @@
       "type": "Feature",
       "properties": {
         "name": "St. Michael the Archangel Parish",
-        "color": "magenta",
+        "color": "purple",
         "deanery": "West Dane"
       },
       "geometry": {
@@ -1536,7 +1536,7 @@
       "type": "Feature",
       "properties": {
         "name": "Holy Family Parish",
-        "color": "Yellow orange",
+        "color": "orange",
         "deanery": "Jefferson"
       },
       "geometry": {
@@ -1587,7 +1587,7 @@
       "type": "Feature",
       "properties": {
         "name": "St. Albert the Great Parish",
-        "color": "cyan",
+        "color": "blue",
         "deanery": "East Dane"
       },
       "geometry": {
@@ -1659,7 +1659,7 @@
       "type": "Feature",
       "properties": {
         "name": "St. Norbert Parish",
-        "color": "Yellow orange",
+        "color": "yellow",
         "deanery": "Sauk"
       },
       "geometry": {
@@ -1810,7 +1810,7 @@
       "type": "Feature",
       "properties": {
         "name": "St. Peter Parish",
-        "color": "magenta",
+        "color": "purple",
         "deanery": "Madison"
       },
       "geometry": {
@@ -1853,7 +1853,7 @@
       "type": "Feature",
       "properties": {
         "name": "St. Pius X Parish",
-        "color": "Dark red",
+        "color": "red",
         "deanery": "Jefferson"
       },
       "geometry": {
@@ -2093,7 +2093,7 @@
       "type": "Feature",
       "properties": {
         "name": "Blessed Sacrament Parish",
-        "color": "brown",
+        "color": "red",
         "deanery": "Madison"
       },
       "geometry": {
