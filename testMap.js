@@ -1922,7 +1922,7 @@
       "type": "Feature",
       "properties": {
         "name": "St. Faustina Parish",
-        "color": "Light blue",
+        "color": "blue",
         "deanery": "Columbia North"
       },
       "geometry": {
