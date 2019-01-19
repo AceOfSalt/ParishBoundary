@@ -1025,7 +1025,7 @@
       "type": "Feature",
       "properties": {
         "name": "Holy Family Parish",
-        "color": "Dark red",
+        "color": "red",
         "deanery": "Columbia North"
       },
       "geometry": {
