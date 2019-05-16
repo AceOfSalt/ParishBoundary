@@ -2086,7 +2086,8 @@
           ]
         ]
       }
-    }
+    },
+	{
       "type": "Feature",
       "properties": {
         "name": "Christ the King Parish",
