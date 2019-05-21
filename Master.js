@@ -2507,7 +2507,7 @@
       "type": "Feature",
       "properties": {
         "name": "Blessed Trinity Parish",
-        "color": "purple",
+        "color": "magenta",
         "deanery": "Columbia North"
       },
       "geometry": {
@@ -3284,7 +3284,7 @@
       "type": "Feature",
       "properties": {
         "name": "St. Peter Parish",
-        "color": "purple",
+        "color": "magenta",
         "deanery": "Madison"
       },
       "geometry": {
@@ -3485,7 +3485,7 @@
       "type": "Feature",
       "properties": {
         "name": "St. Albert the Great Parish",
-        "color": "blue",
+        "color": "green",
         "deanery": "East Dane"
       },
       "geometry": {
@@ -4409,7 +4409,7 @@
       "type": "Feature",
       "properties": {
         "name": "St. Mary Help of Christians Parish",
-        "color": "blue",
+        "color": "magenta",
         "deanery": "Jefferson"
       },
       "geometry": {
