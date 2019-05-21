@@ -3877,7 +3877,7 @@
       "type": "Feature",
       "properties": {
         "name": "St. Paul Parish",
-        "color": "Dark blue",
+        "color": "blue",
         "deanery": "Rock-Green"
       },
       "geometry": {
