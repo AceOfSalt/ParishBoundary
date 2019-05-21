@@ -3053,7 +3053,7 @@
       "type": "Feature",
       "properties": {
         "name": "St. Mary Parish",
-        "color": "grey",
+        "color": "blue",
         "deanery": "West Dane"
       },
       "geometry": {
