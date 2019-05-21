@@ -733,7 +733,8 @@
       "type": "Feature",
       "properties": {
         "name": "Holy Ghost Parish",
-        "color": "yellow orange",
+        "name": "Holy Ghost Parish",
+        "color": "green",
         "deanery": "Grant"
       },
       "geometry": {
@@ -842,7 +843,7 @@
       "type": "Feature",
       "properties": {
         "name": "St. Franice de Sales Parish",
-        "color": "brown",
+        "color": "orange",
         "deanery": "Grant"
       },
       "geometry": {
@@ -879,7 +880,7 @@
       "type": "Feature",
       "properties": {
         "name": "St. Charles Borromeo Parish",
-        "color": "brown",
+        "color": "purple",
         "deanery": "Grant"
       },
       "geometry": {
@@ -1137,7 +1138,7 @@
       "type": "Feature",
       "properties": {
         "name": "St. Isidore Parish",
-        "color": "brown",
+        "color": "blue",
         "deanery": "Lafayette"
       },
       "geometry": {
@@ -2832,7 +2833,7 @@
       "type": "Feature",
       "properties": {
         "name": "St. Mary of the Immaculate Conception Parish",
-        "color": "brown",
+        "color": "yellow",
         "deanery": "Columbia North"
       },
       "geometry": {
@@ -3372,7 +3373,7 @@
       "type": "Feature",
       "properties": {
         "name": "St. Thomas Aquinas Parish",
-        "color": "purple",
+        "color": "orange",
         "deanery": "Madison"
       },
       "geometry": {
