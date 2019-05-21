@@ -4439,7 +4439,7 @@
       "type": "Feature",
       "properties": {
         "name": "St. Pius X Parish",
-        "color": "grey",
+        "color": "purple",
         "deanery": "Jefferson"
       },
       "geometry": {
